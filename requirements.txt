@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+
+langchain-core 
+langgraph>0.2.27
+langchain[groq]
+
+requests
+transformers
+python-dotenv
